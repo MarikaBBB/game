@@ -1,3 +1,10 @@
+# Repository Transition
+
+This is a new repository created specifically for the Founders & Coders to submit application. It does not have any commit history because the project was previously stored in a single repository along with other projects. 
+
+To access the full commit history and development progress, please refer to the https://github.com/MarikaBBB/MarikaBBB.github.io repository.
+
+
 # PUZZLE GAME
 This is a web-based puzzle game built using HTML, CSS, and JavaScript. The game is inspired by japanese anime characters, and it features an image from Studio Ghibli as the puzzle background. The goal of the game is to arrange the tiles in the correct order within a specified number of moves or within a time limit.
 
